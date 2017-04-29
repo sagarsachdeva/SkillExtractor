@@ -1,0 +1,9 @@
+Excellent Linux Administration , Red Hat preferable
+A strong general working knowledge of IT Systems and environments
+Cloud experience, deployment of applications
+Configuration Management, provisioning and orchestration tools (for example Puppet, CFengine, Ched, Ansible, Salt)
+Load Balancing, high availability / Clustering technologies
+Experience with Checkpoint and Cisco Firewall technology
+Experience managing and maintaining application delivery platforms
+VMware management
+An understanding of project and service delivery processesExcellent communicator and problem solver

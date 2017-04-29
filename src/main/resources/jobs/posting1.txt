@@ -1,0 +1,9 @@
+Substantial experience in Core Java, Java EE and JavaScript/CSS/MVC technologies. 
+Experience in working on multiple technologies and medium to complex systems, well versed with design standards and framework
+Quick learner of new tools and technologies. 
+Able to work with distributed teams across multiple time zones. 
+Technologies required – Core Java, Java EE, Multithreading/Concurrency, Web Services, RESTful Development , JSP, Servlets, JSON, XML, JavaScript, CSS, Data Modelling, MQ
+Experience in Spring Framework, Spring Integration and persistence frameworks like JPA, Hibernate. 
+Backend Websphere, SpringBoot  and NodeJS
+Tools – Well versed with Eclipse; Test Driven development and automated testing tools like JUnit, Cucumber/ Gherkin; JIRA, Maven, Sonar
+Experience with the following advantageous: Angular JS, Bootstrap, Kafka

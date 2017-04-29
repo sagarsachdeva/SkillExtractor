@@ -1,0 +1,7 @@
+Experience within the Medical Devices industry is not essential however exposure to instrumentation or automation tools would be highly desirable.
+You should have a clear understanding of software development engineering, preferably within a highly regulated or process oriented environment.
+You must hold a relevant degree, or equivalent, and exhibit core experience of C# (.NET) in a windows environment.
+You should demonstrate experience of Object Oriented Design and Object Oriented Programming and ideally you will be confident in developing User Interfaces in WPF.
+Additional experience with CSS, HTML, Databases etc are a huge bonus.
+Ideally you will be a self-motivated, analytical individual who thrives within a team.
+You should be a problem solver and demonstrate a positive and professional outlook.

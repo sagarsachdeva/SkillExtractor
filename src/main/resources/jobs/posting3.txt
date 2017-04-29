@@ -1,0 +1,16 @@
+A least 2 years of backend development experience with Node.js, building production-grade applications
+4+ years software engineering experience in backend development
+Deep understanding of JavaScript including ES6+ features
+Familiarity with common Node.js modules including Express
+Familiarity with RESTful web services
+Familiarity with Docker-based microservices
+Familiarity with Test Driven Development e.g. Mocha or Jasmine
+Familiarity with Web Front-End development (HTML, CSS, SASS, Bootstrap, etc.)
+Experience with EJS & Keystone CMS
+Experience with Grunt or Gulp 
+Experience with Git or SVN
+Experience with SQL databases
+Understanding of non-relational databases such as MongoDB or CouchDB
+Understanding of algorithms, data structures, and software design fundamentals
+Excellent communications skills to clearly articulate complex technical issues
+Ability to approach problems with a sense of ownership, enthusiasm, and innovation

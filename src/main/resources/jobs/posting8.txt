@@ -1,0 +1,7 @@
+C++ Engineering Job requirements:
+Bsc in Software Engineering or equivalent
+GNU autotools / compiler toolchain / ant
+Java programmer (preferably Java Embedded / SE / OSGi )
+Linux using Java and Python and/or C++
+You will have strong Linux skills, with experience application development and middleware frameworks
+You will have strong written and verbal communications skills

@@ -1,0 +1,9 @@
+Minimum of 3 years' commercial experience with a programming language - ideally PHP, C or C++ or Javascript
+Experience with core web technologies including javascript, jquery, json, html5 and css3
+Experience in a Linux or Unix environment
+Experience with Ruby on Rails application development advantageous
+Experience in full development life cycle
+Experience with UX technologies
+Experience with PostgreSQL desirable
+Experience building and consuming HTTP API's
+Computer science degree or similar

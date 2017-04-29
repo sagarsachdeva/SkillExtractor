@@ -1,0 +1,9 @@
+Undergraduate degree or equivalent experience
+Strong experience in building multi - tier applications (such as Java, .NET etc.)
+Strong hands on experience with Java and Spring MVC
+Hands on experience with Docker
+Deep understanding of industry patterns for application architecture and integration
+Agile development experience
+Exposure to Cloud Development and API Service Layer
+Healthcare industry experience
+Team leadership or team management experience

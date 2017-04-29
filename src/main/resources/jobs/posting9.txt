@@ -1,0 +1,12 @@
+5 years’ experience in a senior technical architect role. (Java/ J2EE)
+Knowledge of cloud based solutions and infrastructure (Azure or AWS).
+Knowledge of development in RESTful and micro services architectural styles.
+Excellent analytical skills and problem solving abilities.
+A knowledge of technology applications in a IT product environment.
+Understanding of regulatory and quality issues associated with medical device development.
+Experience of noSQL DB implementation (we use MongoDB), Experience of messaging technology (Kafka) and technologies such as Spring Security, nginx, Docker, Docker Swarm.
+The primary server-side technology in use at is Java/EE.
+Strong technical and business writing skills.
+Capability to interact with senior stakeholders .
+Ability to work in a multi-site environment 
+Agile development methodologies

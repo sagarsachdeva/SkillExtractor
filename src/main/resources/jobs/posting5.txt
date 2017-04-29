@@ -1,0 +1,7 @@
+You hold an Honours degree in computer science/engineering or a related field, with five or more years’ experience writing production level software in Java, Groovy and Grails an advantage.
+You are familiar with enterprise adapters, XSLT, web services, Java utilities, RabbitMQ, JMS Queues, RMI.
+You are comfortable with Tomcat application servers, creation of Spring web services and multi-threaded programming
+You have knowledge of version control systems (GIT), continuous integration engines (Jenkins), jQuery, JavaScript, XSLT, HTML and CSS.
+You have a good understanding of relational database structure and design, MySQL is preferred.
+You are proficient using IDEs such as IntelliJ and Eclipse and have a good understanding of software development lifecycles and methodologies.
+You are an excellent troubleshooter and have proven problem solving skills.
