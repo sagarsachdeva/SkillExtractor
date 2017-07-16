@@ -13,7 +13,7 @@ public class SkillFinder {
 
 	private List<Requirement> foundRequirements;
 
-	SkillFinder() {
+	public SkillFinder() {
 		foundRequirements = new ArrayList<Requirement>();
 	}
 

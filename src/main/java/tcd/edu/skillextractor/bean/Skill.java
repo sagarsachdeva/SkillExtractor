@@ -7,6 +7,8 @@ public class Skill {
 
 	private Double preferenceScore;
 
+	private Double finalScore;
+
 	private int status;
 
 	private int lineNo;
@@ -49,6 +51,14 @@ public class Skill {
 
 	public void setPreferenceScore(Double preferenceScore) {
 		this.preferenceScore = preferenceScore;
+	}
+
+	public Double getFinalScore() {
+		return finalScore;
+	}
+
+	public void setFinalScore(Double finalScore) {
+		this.finalScore = finalScore;
 	}
 
 }

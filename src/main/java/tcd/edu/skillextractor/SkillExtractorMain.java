@@ -17,9 +17,10 @@ import tcd.edu.skillextractor.bean.Skill;
 public class SkillExtractorMain {
 
 	public static void main(String[] args) {
-//		String[] files = { "posting1", "posting2", "posting3", "posting4", "posting5", "posting6", "posting7",
-//				"posting8", "posting9", "posting10" };
-		String[] files = {"posting10"};
+		// String[] files = { "posting1", "posting2", "posting3", "posting4",
+		// "posting5", "posting6", "posting7",
+		// "posting8", "posting9", "posting10" };
+		String[] files = { "posting10" };
 		for (String filename : files) {
 			BufferedReader br = null;
 			List<String> reqList = new ArrayList<String>();
@@ -67,6 +68,7 @@ public class SkillExtractorMain {
 						double lineScore = skill.getLineScore() == null ? 0.0 : skill.getLineScore();
 						double preferenceScore = skill.getPreferenceScore() == null ? 0.0 : skill.getPreferenceScore();
 						double finalScore = ((lineScore + preferenceScore) * 10) / 8;
+						skill.setFinalScore(finalScore);
 						bw.write(skill.getSkillName() + "," + roundOff(finalScore));
 						bw.newLine();
 					}
